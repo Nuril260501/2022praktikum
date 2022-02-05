@@ -1,0 +1,9 @@
+<script src="plugins/datatables/jquery.dataTables.min.js"></script>
+<script src="plugins/datatables-bs4/js/dataTables.bootstrap4.min.css"></script>
+<script src="plugins/datatables-responsive/js/dataTables.bootstrap4.min.css"></script>
+<script src="plugins/datatables-responsive/js/responsive.bootstrap4.min.css"></script>
+<script src="plugins/datatables-buttons/js/dataTables.buttons.min.css"></script>
+<script src="plugins/datatables-buttons/js/buttons.bootstrap4.min.css"></script>
+<script src="plugins/datatables-buttons/js/buttons.html5.min.css"></script>
+<script src="plugins/datatables-buttons/js/buttons.print.min.css"></script>
+<script src="plugins/datatables-buttons/js/buttons.colVis.min.css"></script>
